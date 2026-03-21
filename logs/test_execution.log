@@ -1,0 +1,368 @@
+2026-03-18 01:19:06 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:19:06 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 01:19:10 | INFO | conftest | Browser closed
+2026-03-18 01:19:16 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:19:16 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 01:19:21 | INFO | conftest | Browser closed
+2026-03-18 01:19:27 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:19:27 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 01:19:42 | INFO | conftest | Browser closed
+2026-03-18 01:19:48 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:19:48 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 01:19:53 | INFO | conftest | Browser closed
+2026-03-18 01:19:59 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:19:59 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 01:20:04 | INFO | conftest | Browser closed
+2026-03-18 01:20:10 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:20:10 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 01:20:15 | INFO | conftest | Browser closed
+2026-03-18 01:20:21 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:20:21 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 01:20:27 | INFO | conftest | Browser closed
+2026-03-18 01:20:32 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:20:32 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 01:20:38 | INFO | conftest | Browser closed
+2026-03-18 01:20:43 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:20:43 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 01:20:49 | INFO | conftest | Browser closed
+2026-03-18 01:20:55 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:20:55 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 01:21:01 | INFO | conftest | Browser closed
+2026-03-18 01:21:07 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:21:07 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 01:21:12 | INFO | conftest | Browser closed
+2026-03-18 01:21:18 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:21:18 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 01:21:23 | INFO | conftest | Browser closed
+2026-03-18 01:21:28 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:21:28 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 01:21:33 | INFO | conftest | Browser closed
+2026-03-18 01:21:39 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:21:39 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 01:21:44 | INFO | conftest | Browser closed
+2026-03-18 01:21:50 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:21:50 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 01:21:55 | INFO | conftest | Browser closed
+2026-03-18 01:22:01 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:22:01 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 01:22:06 | INFO | conftest | Browser closed
+2026-03-18 01:22:12 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:22:12 | INFO | LoginPage | Logging in with user: wrong_user
+2026-03-18 01:22:12 | INFO | LoginPage | Error message found: Epic sadface: Username and password do not match any user in this service
+2026-03-18 01:22:16 | INFO | conftest | Browser closed
+2026-03-18 01:22:22 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:22:22 | INFO | LoginPage | Logging in with user: 
+2026-03-18 01:22:23 | INFO | LoginPage | Error message found: Epic sadface: Username is required
+2026-03-18 01:22:27 | INFO | conftest | Browser closed
+2026-03-18 01:22:32 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:22:32 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 01:22:33 | INFO | LoginPage | Error message found: Epic sadface: Password is required
+2026-03-18 01:22:37 | INFO | conftest | Browser closed
+2026-03-18 01:22:43 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:22:43 | INFO | LoginPage | Logging in with user: locked_out_user
+2026-03-18 01:22:43 | INFO | LoginPage | Error message found: Epic sadface: Sorry, this user has been locked out.
+2026-03-18 01:22:48 | INFO | conftest | Browser closed
+2026-03-18 01:22:54 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:22:54 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 01:22:58 | INFO | conftest | Browser closed
+2026-03-18 01:23:04 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:23:04 | INFO | LoginPage | Logging in with user: performance_glitch_user
+2026-03-18 01:23:14 | INFO | conftest | Browser closed
+2026-03-18 01:49:09 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:49:09 | INFO | E2ETest | E2E Test Started - SauceDemo opened
+2026-03-18 01:49:09 | INFO | E2ETest | Logging in as standard_user
+2026-03-18 01:49:09 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 01:49:09 | INFO | E2ETest | Verifying inventory page loaded
+2026-03-18 01:49:09 | INFO | E2ETest | Sorting products: price low to high
+2026-03-18 01:49:09 | INFO | E2ETest | Adding product to cart: Sauce Labs Onesie
+2026-03-18 01:49:09 | INFO | E2ETest | Verifying cart badge shows: 1
+2026-03-18 01:49:09 | INFO | E2ETest | Navigating to cart page
+2026-03-18 01:49:10 | INFO | E2ETest | Verifying cart has 1 item
+2026-03-18 01:49:10 | INFO | E2ETest | Removing item from cart
+2026-03-18 01:49:10 | INFO | E2ETest | Verifying cart is empty
+2026-03-18 01:49:20 | INFO | E2ETest | E2E Test COMPLETED successfully
+2026-03-18 01:49:24 | INFO | conftest | Browser closed
+2026-03-18 01:54:58 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 01:54:58 | INFO | E2ETest | E2E Test Started - SauceDemo opened
+2026-03-18 01:54:59 | INFO | E2ETest | Logging in as standard_user
+2026-03-18 01:54:59 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 01:55:01 | INFO | E2ETest | Verifying inventory page loaded
+2026-03-18 01:55:03 | INFO | E2ETest | Sorting products: price low to high
+2026-03-18 01:55:04 | INFO | E2ETest | Adding product to cart: Sauce Labs Onesie
+2026-03-18 01:55:06 | INFO | E2ETest | Verifying cart badge shows: 1
+2026-03-18 01:55:07 | INFO | E2ETest | Navigating to cart page
+2026-03-18 01:55:09 | INFO | E2ETest | Verifying cart has 1 item
+2026-03-18 01:55:10 | INFO | E2ETest | Removing item from cart
+2026-03-18 01:55:12 | INFO | E2ETest | Verifying cart is empty
+2026-03-18 01:55:22 | INFO | E2ETest | E2E Test COMPLETED successfully
+2026-03-18 01:55:29 | INFO | conftest | Browser closed
+2026-03-18 02:16:12 | INFO | ExcelReader | Reading Excel file: test_data/login_data.xlsx
+2026-03-18 02:16:12 | INFO | ExcelReader | Loaded row: {'username': 'standard_user', 'password': 'secret_sauce', 'expected_result': 'pass'}
+2026-03-18 02:16:12 | INFO | ExcelReader | Loaded row: {'username': 'performance_glitch_user', 'password': 'secret_sauce', 'expected_result': 'pass'}
+2026-03-18 02:16:12 | INFO | ExcelReader | Loaded row: {'username': 'wrong_user', 'password': 'wrong_pass', 'expected_result': 'fail'}
+2026-03-18 02:16:12 | INFO | ExcelReader | Loaded row: {'username': 'locked_out_user', 'password': 'secret_sauce', 'expected_result': 'fail'}
+2026-03-18 02:16:12 | INFO | ExcelReader | Loaded row: {'username': 'standard_user', 'password': None, 'expected_result': 'fail'}
+2026-03-18 02:16:12 | INFO | ExcelReader | Loaded row: {'username': None, 'password': 'secret_sauce', 'expected_result': 'fail'}
+2026-03-18 02:16:12 | INFO | ExcelReader | Total rows loaded: 6
+2026-03-18 02:16:19 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:16:19 | INFO | ExcelDrivenTest | VALID login test — user: standard_user
+2026-03-18 02:16:19 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:16:25 | INFO | conftest | Browser closed
+2026-03-18 02:16:31 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:16:31 | INFO | ExcelDrivenTest | VALID login test — user: performance_glitch_user
+2026-03-18 02:16:31 | INFO | LoginPage | Logging in with user: performance_glitch_user
+2026-03-18 02:16:41 | INFO | conftest | Browser closed
+2026-03-18 02:16:47 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:16:47 | INFO | ExcelDrivenTest | INVALID login test — user: wrong_user
+2026-03-18 02:16:47 | INFO | LoginPage | Logging in with user: wrong_user
+2026-03-18 02:16:53 | INFO | conftest | Browser closed
+2026-03-18 02:16:59 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:16:59 | INFO | ExcelDrivenTest | INVALID login test — user: locked_out_user
+2026-03-18 02:16:59 | INFO | LoginPage | Logging in with user: locked_out_user
+2026-03-18 02:17:05 | INFO | conftest | Browser closed
+2026-03-18 02:17:11 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:17:11 | INFO | ExcelDrivenTest | INVALID login test — user: standard_user
+2026-03-18 02:17:11 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:17:12 | ERROR | conftest | Test FAILED. Screenshot saved: reports/screenshots/test_invalid_login_excel[standard_user-None].png
+2026-03-18 02:17:17 | INFO | conftest | Browser closed
+2026-03-18 02:17:23 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:17:23 | INFO | ExcelDrivenTest | INVALID login test — user: None
+2026-03-18 02:17:23 | INFO | LoginPage | Logging in with user: None
+2026-03-18 02:17:23 | ERROR | conftest | Test FAILED. Screenshot saved: reports/screenshots/test_invalid_login_excel[None-secret_sauce].png
+2026-03-18 02:17:28 | INFO | conftest | Browser closed
+2026-03-18 02:19:29 | INFO | ExcelReader | Reading Excel file: test_data/login_data.xlsx
+2026-03-18 02:19:29 | INFO | ExcelReader | Loaded row: {'username': 'standard_user', 'password': 'secret_sauce', 'expected_result': 'pass'}
+2026-03-18 02:19:29 | INFO | ExcelReader | Loaded row: {'username': 'performance_glitch_user', 'password': 'secret_sauce', 'expected_result': 'pass'}
+2026-03-18 02:19:29 | INFO | ExcelReader | Loaded row: {'username': 'wrong_user', 'password': 'wrong_pass', 'expected_result': 'fail'}
+2026-03-18 02:19:29 | INFO | ExcelReader | Loaded row: {'username': 'locked_out_user', 'password': 'secret_sauce', 'expected_result': 'fail'}
+2026-03-18 02:19:29 | INFO | ExcelReader | Loaded row: {'username': 'standard_user', 'password': None, 'expected_result': 'fail'}
+2026-03-18 02:19:29 | INFO | ExcelReader | Loaded row: {'username': None, 'password': 'secret_sauce', 'expected_result': 'fail'}
+2026-03-18 02:19:29 | INFO | ExcelReader | Total rows loaded: 6
+2026-03-18 02:19:35 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:19:35 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:19:41 | INFO | conftest | Browser closed
+2026-03-18 02:19:47 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:19:47 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:19:53 | INFO | conftest | Browser closed
+2026-03-18 02:19:59 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:19:59 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:20:15 | INFO | conftest | Browser closed
+2026-03-18 02:20:21 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:20:21 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:20:27 | INFO | conftest | Browser closed
+2026-03-18 02:20:33 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:20:33 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:20:39 | INFO | conftest | Browser closed
+2026-03-18 02:20:45 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:20:45 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:20:52 | INFO | conftest | Browser closed
+2026-03-18 02:20:57 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:20:57 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:21:04 | INFO | conftest | Browser closed
+2026-03-18 02:21:10 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:21:10 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:21:16 | INFO | conftest | Browser closed
+2026-03-18 02:21:22 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:21:22 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:21:28 | INFO | conftest | Browser closed
+2026-03-18 02:21:34 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:21:34 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:21:40 | INFO | conftest | Browser closed
+2026-03-18 02:21:46 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:21:46 | INFO | E2ETest | E2E Test Started - SauceDemo opened
+2026-03-18 02:21:47 | INFO | E2ETest | Logging in as standard_user
+2026-03-18 02:21:47 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:21:49 | INFO | E2ETest | Verifying inventory page loaded
+2026-03-18 02:21:50 | INFO | E2ETest | Sorting products: price low to high
+2026-03-18 02:21:52 | INFO | E2ETest | Adding product to cart: Sauce Labs Onesie
+2026-03-18 02:21:54 | INFO | E2ETest | Verifying cart badge shows: 1
+2026-03-18 02:21:55 | INFO | E2ETest | Navigating to cart page
+2026-03-18 02:21:57 | INFO | E2ETest | Verifying cart has 1 item
+2026-03-18 02:21:58 | INFO | E2ETest | Removing item from cart
+2026-03-18 02:22:00 | INFO | E2ETest | Verifying cart is empty
+2026-03-18 02:22:10 | INFO | E2ETest | E2E Test COMPLETED successfully
+2026-03-18 02:22:17 | INFO | conftest | Browser closed
+2026-03-18 02:22:22 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:22:22 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:22:28 | INFO | conftest | Browser closed
+2026-03-18 02:22:34 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:22:34 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:22:40 | INFO | conftest | Browser closed
+2026-03-18 02:22:45 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:22:45 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:22:51 | INFO | conftest | Browser closed
+2026-03-18 02:22:57 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:22:57 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:23:03 | INFO | conftest | Browser closed
+2026-03-18 02:23:09 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:23:09 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:23:14 | INFO | conftest | Browser closed
+2026-03-18 02:23:20 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:23:20 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:23:26 | INFO | conftest | Browser closed
+2026-03-18 02:23:32 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:23:32 | INFO | LoginPage | Logging in with user: wrong_user
+2026-03-18 02:23:32 | INFO | LoginPage | Error message found: Epic sadface: Username and password do not match any user in this service
+2026-03-18 02:23:37 | INFO | conftest | Browser closed
+2026-03-18 02:23:43 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:23:43 | INFO | LoginPage | Logging in with user: 
+2026-03-18 02:23:43 | INFO | LoginPage | Error message found: Epic sadface: Username is required
+2026-03-18 02:23:49 | INFO | conftest | Browser closed
+2026-03-18 02:23:55 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:23:55 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:23:55 | INFO | LoginPage | Error message found: Epic sadface: Password is required
+2026-03-18 02:24:00 | INFO | conftest | Browser closed
+2026-03-18 02:24:06 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:24:06 | INFO | LoginPage | Logging in with user: locked_out_user
+2026-03-18 02:24:06 | INFO | LoginPage | Error message found: Epic sadface: Sorry, this user has been locked out.
+2026-03-18 02:24:12 | INFO | conftest | Browser closed
+2026-03-18 02:24:17 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:24:17 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:24:23 | INFO | conftest | Browser closed
+2026-03-18 02:24:29 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:24:29 | INFO | LoginPage | Logging in with user: performance_glitch_user
+2026-03-18 02:24:39 | INFO | conftest | Browser closed
+2026-03-18 02:24:45 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:24:45 | INFO | ExcelDrivenTest | VALID login test — user: standard_user
+2026-03-18 02:24:45 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:24:51 | INFO | conftest | Browser closed
+2026-03-18 02:24:57 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:24:57 | INFO | ExcelDrivenTest | VALID login test — user: performance_glitch_user
+2026-03-18 02:24:57 | INFO | LoginPage | Logging in with user: performance_glitch_user
+2026-03-18 02:25:07 | INFO | conftest | Browser closed
+2026-03-18 02:25:13 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:25:13 | INFO | ExcelDrivenTest | INVALID login test — user: wrong_user
+2026-03-18 02:25:13 | INFO | LoginPage | Logging in with user: wrong_user
+2026-03-18 02:25:19 | INFO | conftest | Browser closed
+2026-03-18 02:25:25 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:25:25 | INFO | ExcelDrivenTest | INVALID login test — user: locked_out_user
+2026-03-18 02:25:25 | INFO | LoginPage | Logging in with user: locked_out_user
+2026-03-18 02:25:30 | INFO | conftest | Browser closed
+2026-03-18 02:25:36 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:25:36 | INFO | ExcelDrivenTest | INVALID login test — user: standard_user
+2026-03-18 02:25:36 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:25:37 | ERROR | conftest | Test FAILED. Screenshot saved: reports/screenshots/test_invalid_login_excel[standard_user-None].png
+2026-03-18 02:25:42 | INFO | conftest | Browser closed
+2026-03-18 02:25:48 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:25:48 | INFO | ExcelDrivenTest | INVALID login test — user: None
+2026-03-18 02:25:48 | INFO | LoginPage | Logging in with user: None
+2026-03-18 02:25:48 | ERROR | conftest | Test FAILED. Screenshot saved: reports/screenshots/test_invalid_login_excel[None-secret_sauce].png
+2026-03-18 02:25:53 | INFO | conftest | Browser closed
+2026-03-18 02:34:15 | INFO | ExcelReader | Reading Excel file: test_data/login_data.xlsx
+2026-03-18 02:34:15 | INFO | ExcelReader | Loaded row: {'username': 'standard_user', 'password': 'secret_sauce', 'expected_result': 'pass'}
+2026-03-18 02:34:15 | INFO | ExcelReader | Loaded row: {'username': 'performance_glitch_user', 'password': 'secret_sauce', 'expected_result': 'pass'}
+2026-03-18 02:34:15 | INFO | ExcelReader | Loaded row: {'username': 'wrong_user', 'password': 'wrong_pass', 'expected_result': 'fail'}
+2026-03-18 02:34:15 | INFO | ExcelReader | Loaded row: {'username': 'locked_out_user', 'password': 'secret_sauce', 'expected_result': 'fail'}
+2026-03-18 02:34:15 | INFO | ExcelReader | Loaded row: {'username': 'standard_user', 'password': None, 'expected_result': 'fail'}
+2026-03-18 02:34:15 | INFO | ExcelReader | Loaded row: {'username': None, 'password': 'secret_sauce', 'expected_result': 'fail'}
+2026-03-18 02:34:15 | INFO | ExcelReader | Total rows loaded: 6
+2026-03-18 02:34:21 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:34:21 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:34:27 | INFO | conftest | Browser closed
+2026-03-18 02:34:33 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:34:33 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:34:39 | INFO | conftest | Browser closed
+2026-03-18 02:34:45 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:34:45 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:35:01 | INFO | conftest | Browser closed
+2026-03-18 02:35:07 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:35:07 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:35:13 | INFO | conftest | Browser closed
+2026-03-18 02:35:19 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:35:19 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:35:25 | INFO | conftest | Browser closed
+2026-03-18 02:35:31 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:35:31 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:35:37 | INFO | conftest | Browser closed
+2026-03-18 02:35:43 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:35:43 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:35:49 | INFO | conftest | Browser closed
+2026-03-18 02:35:55 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:35:55 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:36:01 | INFO | conftest | Browser closed
+2026-03-18 02:36:07 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:36:07 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:36:13 | INFO | conftest | Browser closed
+2026-03-18 02:36:20 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:36:20 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:36:26 | INFO | conftest | Browser closed
+2026-03-18 02:36:32 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:36:32 | INFO | E2ETest | E2E Test Started - SauceDemo opened
+2026-03-18 02:36:34 | INFO | E2ETest | Logging in as standard_user
+2026-03-18 02:36:34 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:36:35 | INFO | E2ETest | Verifying inventory page loaded
+2026-03-18 02:36:37 | INFO | E2ETest | Sorting products: price low to high
+2026-03-18 02:36:39 | INFO | E2ETest | Adding product to cart: Sauce Labs Onesie
+2026-03-18 02:36:40 | INFO | E2ETest | Verifying cart badge shows: 1
+2026-03-18 02:36:42 | INFO | E2ETest | Navigating to cart page
+2026-03-18 02:36:43 | INFO | E2ETest | Verifying cart has 1 item
+2026-03-18 02:36:45 | INFO | E2ETest | Removing item from cart
+2026-03-18 02:36:46 | INFO | E2ETest | Verifying cart is empty
+2026-03-18 02:36:56 | INFO | E2ETest | E2E Test COMPLETED successfully
+2026-03-18 02:37:03 | INFO | conftest | Browser closed
+2026-03-18 02:37:09 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:37:09 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:37:15 | INFO | conftest | Browser closed
+2026-03-18 02:37:21 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:37:21 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:37:27 | INFO | conftest | Browser closed
+2026-03-18 02:37:33 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:37:33 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:37:39 | INFO | conftest | Browser closed
+2026-03-18 02:37:45 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:37:45 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:37:51 | INFO | conftest | Browser closed
+2026-03-18 02:37:57 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:37:57 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:38:02 | INFO | conftest | Browser closed
+2026-03-18 02:38:08 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:38:08 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:38:14 | INFO | conftest | Browser closed
+2026-03-18 02:38:20 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:38:20 | INFO | LoginPage | Logging in with user: wrong_user
+2026-03-18 02:38:20 | INFO | LoginPage | Error message found: Epic sadface: Username and password do not match any user in this service
+2026-03-18 02:38:26 | INFO | conftest | Browser closed
+2026-03-18 02:38:31 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:38:31 | INFO | LoginPage | Logging in with user: 
+2026-03-18 02:38:32 | INFO | LoginPage | Error message found: Epic sadface: Username is required
+2026-03-18 02:38:37 | INFO | conftest | Browser closed
+2026-03-18 02:38:43 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:38:43 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:38:43 | INFO | LoginPage | Error message found: Epic sadface: Password is required
+2026-03-18 02:38:49 | INFO | conftest | Browser closed
+2026-03-18 02:38:54 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:38:54 | INFO | LoginPage | Logging in with user: locked_out_user
+2026-03-18 02:38:55 | INFO | LoginPage | Error message found: Epic sadface: Sorry, this user has been locked out.
+2026-03-18 02:39:00 | INFO | conftest | Browser closed
+2026-03-18 02:39:05 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:39:05 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:39:12 | INFO | conftest | Browser closed
+2026-03-18 02:39:17 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:39:17 | INFO | LoginPage | Logging in with user: performance_glitch_user
+2026-03-18 02:39:28 | INFO | conftest | Browser closed
+2026-03-18 02:39:34 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:39:34 | INFO | ExcelDrivenTest | VALID login test — user: standard_user
+2026-03-18 02:39:34 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:39:40 | INFO | conftest | Browser closed
+2026-03-18 02:39:46 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:39:46 | INFO | ExcelDrivenTest | VALID login test — user: performance_glitch_user
+2026-03-18 02:39:46 | INFO | LoginPage | Logging in with user: performance_glitch_user
+2026-03-18 02:39:56 | INFO | conftest | Browser closed
+2026-03-18 02:40:02 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:40:02 | INFO | ExcelDrivenTest | INVALID login test — user: wrong_user
+2026-03-18 02:40:02 | INFO | LoginPage | Logging in with user: wrong_user
+2026-03-18 02:40:08 | INFO | conftest | Browser closed
+2026-03-18 02:40:13 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:40:13 | INFO | ExcelDrivenTest | INVALID login test — user: locked_out_user
+2026-03-18 02:40:13 | INFO | LoginPage | Logging in with user: locked_out_user
+2026-03-18 02:40:19 | INFO | conftest | Browser closed
+2026-03-18 02:40:25 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:40:25 | INFO | ExcelDrivenTest | INVALID login test — user: standard_user
+2026-03-18 02:40:25 | INFO | LoginPage | Logging in with user: standard_user
+2026-03-18 02:40:25 | ERROR | conftest | Test FAILED. Screenshot saved: reports/screenshots/test_invalid_login_excel[standard_user-None].png
+2026-03-18 02:40:31 | INFO | conftest | Browser closed
+2026-03-18 02:40:36 | INFO | conftest | Browser opened and navigated to SauceDemo
+2026-03-18 02:40:36 | INFO | ExcelDrivenTest | INVALID login test — user: None
+2026-03-18 02:40:36 | INFO | LoginPage | Logging in with user: None
+2026-03-18 02:40:37 | ERROR | conftest | Test FAILED. Screenshot saved: reports/screenshots/test_invalid_login_excel[None-secret_sauce].png
+2026-03-18 02:40:42 | INFO | conftest | Browser closed
