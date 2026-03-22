@@ -1,5 +1,5 @@
 # 🧪 SauceDemo Test Automation Framework
-
+![CI](https://github.com/SpanditaQA/saucedemo-framework/actions/workflows/test_automation.yml/badge.svg)
 ## 📌 Overview
 Production-ready test automation framework built with Python + Selenium + PyTest-BDD using Page Object Model design pattern. Covers full e-commerce flow with 29 automated test cases.
 
@@ -44,7 +44,7 @@ saucedemo-framework/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/saucedemo-framework.git
+git clone https://github.com/SpanditaQA/saucedemo-framework.git
 cd saucedemo-framework
 ```
 
@@ -85,4 +85,3 @@ Download test report from Actions → Artifacts after each run.
 
 ## 👩‍💻 Author
 **Spandita**
-4 Years Experience | Test Automation Engineer
