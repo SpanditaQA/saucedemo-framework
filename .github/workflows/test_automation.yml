@@ -24,14 +24,18 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Setup Chrome browser
-        uses: browser-actions/setup-chrome@latest
+      - name: Install Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
 
       - name: Generate Excel test data
         run: python utils/create_test_data.py
 
       - name: Run all tests
         run: pytest -v --html=reports/report.html --self-contained-html
+        env:
+          CI: true
 
       - name: Upload HTML report
         uses: actions/upload-artifact@v4
@@ -40,9 +44,5 @@ jobs:
           name: test-report
           path: reports/report.html
 
-      - name: Upload failure screenshots
-        uses: actions/upload-artifact@v4
-        if: failure()
-        with:
-          name: failure-screenshots
-          path: reports/screenshots/
+      - name: Upload screenshots on failure
+        us

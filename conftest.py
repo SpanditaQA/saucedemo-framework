@@ -15,7 +15,8 @@ def browser():
     driver.get(config["url"])
     logger.info("Browser opened and navigated to SauceDemo")
     yield driver
-    time.sleep(3)       # pause before closing so you can see final state
+    if not os.environ.get("CI"):
+        time.sleep(2)  # pause only on local — not on CI
     driver.quit()
     logger.info("Browser closed")
 
@@ -29,4 +30,4 @@ def pytest_runtest_makereport(item, call):
             os.makedirs("reports/screenshots", exist_ok=True)
             screenshot_path = f"reports/screenshots/{item.name}.png"
             driver.save_screenshot(screenshot_path)
-            logger.error(f"Test FAILED. Screenshot saved: {screenshot_path}")
+            logger.error(f"Test FAILED. Screenshot: {screenshot_path}")
